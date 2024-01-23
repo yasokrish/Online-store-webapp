@@ -217,7 +217,7 @@ Authentication Service is part of User Authentication Infrastructure. It is buil
 
 * Post Condition:
 
-1. User should not be able to login to Glarimy Cloud with activating the ID again.
+1. User should not be able to login to Shopping website with activating the ID again.
 2. Back button or bookmarks fail to open any of the login-protected pages of the web app
 
 * Exceptions:
